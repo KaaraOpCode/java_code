@@ -11,7 +11,7 @@ import javax.swing.*;
 
 /**
  *
- * @author sebabatso.metla
+ * @author kaara
  */
 public class UnitsCalculatorRevisit  extends JFrame{
     
